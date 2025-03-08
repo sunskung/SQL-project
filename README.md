@@ -19,7 +19,7 @@ Each project involves key SQL operations, such as:
 - Integrating SQL with Python for analysis  
 
 ## 🛠️ Tools & Technologies  
-- **SQL** (PostgreSQL, MySQL, or SQLite)  
+- **SQL** (PostgreSQL)  
 - **Python** (Pandas, SQLite3, SQLAlchemy)  
 - **Jupyter Notebook** for SQL-Python integration  
 
